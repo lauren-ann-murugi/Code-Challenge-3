@@ -66,7 +66,7 @@ CODE-CHALLENGE-3/
 │   └── index.js          
 ├── db.json               
 └── README.md   
-
+```
 ## Submission
 
 Once your project is complete:
