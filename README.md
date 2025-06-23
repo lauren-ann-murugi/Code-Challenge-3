@@ -80,10 +80,10 @@ git add .
 ```
 - Commit my changes
 ```
-git commit -m "Complete Event Guest List Manager"
+git commit -m "Complete challenge"
 ```
 - Push to GitHub
 ```
-git remote add origin https://github.com/yourusername/event-guest-list-manager.git
+git remote add origin git@github.com:lauren-ann-murugi/Code-Challenge-3.git
 git push -u origin main
 ```
