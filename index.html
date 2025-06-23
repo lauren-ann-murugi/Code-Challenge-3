@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>My Blog Post </title>
+  <link rel="stylesheet" href="./css/style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>Lauren's OOTD's</h1>
+
+    <!-- Form to Add New Post -->
+    <section>
+      <h2>+ Add New Post</h2>
+      <form id="new-post-form">
+        <input id="title" type="text" placeholder="Outfit Title" required />
+        <input id="author" type="text" placeholder="Author" required />
+        <input id="image" type="text" placeholder="Image URL" required />
+        <textarea id="content" placeholder="Describe your outfit here..." required></textarea>
+        <button type="submit">+Add Post</button>
+      </form>
+    </section>
+
+    <!-- Post List -->
+    <section>
+      <h2 class="All Posts">My Blog Title</h2>
+      <!-- <h2>All Posts</h2> -->
+      <div id="post-list"></div>
+    </section>
+
+    <!-- Post Detail View -->
+    <section>
+      <h2>Post Detail</h2>
+      <div id="post-detail">
+        <p>My OOTD's will appear here</p>
+      </div>
+    </section>
+  </div>
+
+  <script src="./src/index.js"></script>
+</body>
+</html>
