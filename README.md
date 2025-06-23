@@ -4,6 +4,11 @@
 Hi! I'm **Lauren Ann**, a budding software engineer and fashion enthusiast.
 This project is a submission for my **Phase 1 Code-Challenge-3**, where I built a full CRUD (Create, Read, Update, Delete) blog app from scratch using HTML, CSS, and JavaScript
 ___
+![Screenshot 2025-06-23 183123](https://github.com/user-attachments/assets/0f84fd01-6750-45c9-9425-cff0424d13a5)
+![Screenshot 2025-06-23 183448](https://github.com/user-attachments/assets/7f830d3e-e9c8-4c6d-8522-0716c3286312)
+
+
+
 ## Project Overview
 
 **Lauren's OOTD Blog** is a fashion-forward blog platform where users can:
